@@ -10,3 +10,4 @@
 ## Datasets
 
 * [FastText pre-trained word embeddings](https://fasttext.cc/docs/en/crawl-vectors.html), including Japanese
+* [Pre-trained Japanese BERT model](http://nlp.ist.i.kyoto-u.ac.jp/index.php?BERT%E6%97%A5%E6%9C%AC%E8%AA%9EPretrained%E3%83%A2%E3%83%87%E3%83%AB) Pre-trained Japanese BERT model released by Kyoto University. Based on morphemes split into subwords
