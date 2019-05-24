@@ -7,6 +7,8 @@
   * [mecab-python3](https://pypi.org/project/mecab-python3/) - Python wrapper for the MeCab morphological analyzer for Japanese
 * [JUMAN](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN) - morphological analyzer developed at Kyoto University
 
+* [CaboCha](http://taku910.github.io/cabocha/) - Japanese dependency parser based on Support Vector Machine (SVM)
+
 ## Pre-trained Models
 
 * [FastText pre-trained word embeddings](https://fasttext.cc/docs/en/crawl-vectors.html), including Japanese
