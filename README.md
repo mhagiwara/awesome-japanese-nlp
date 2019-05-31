@@ -4,9 +4,8 @@
 ## Software
 
 * [MeCab](https://taku910.github.io/mecab/) - de-fact morphological analyzer for Japanese developed by Taku Kudo
-  * [mecab-python3](https://pypi.org/project/mecab-python3/) - Python wrapper for the MeCab morphological analyzer for Japanese
+* [mecab-python3](https://pypi.org/project/mecab-python3/) - Python wrapper for the MeCab morphological analyzer for Japanese
 * [JUMAN](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN) - morphological analyzer developed at Kyoto University
-
 * [CaboCha](http://taku910.github.io/cabocha/) - Japanese dependency parser based on Support Vector Machine (SVM)
 
 ## Pre-trained Models
@@ -18,3 +17,4 @@
 ## Datasets
 
 * [Aozora Bunko](http://aozora-word.hahasoha.net/index.html) - Aozora Bunko (Japanese out-of-copyright works) data, annotated with morphological information
+* [KNBC blog corpus](http://nlp.ist.i.kyoto-u.ac.jp/kuntt/) - Collection of blog articles annotated with morphemes, parses, case/ellipsis/anaphra, and sentiment.
