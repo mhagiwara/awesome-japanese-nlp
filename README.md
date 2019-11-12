@@ -5,6 +5,8 @@
 
 * [MeCab](https://taku910.github.io/mecab/) - de-fact morphological analyzer for Japanese developed by Taku Kudo
 * [mecab-python3](https://pypi.org/project/mecab-python3/) - Python wrapper for the MeCab morphological analyzer for Japanese
+* [Sudachi](https://github.com/WorksApplications/Sudachi) - Japanese morphological analyzer for business
+* [kuromoji](https://www.atilika.org/) - an open source Japanese morphological analyzer written in Java
 * [JUMAN](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN) - morphological analyzer developed at Kyoto University
 * [JUMAN++](https://github.com/ku-nlp/jumanpp) - next generation of the JUMAN morphological analyzer using a neural network language model
 * [CaboCha](http://taku910.github.io/cabocha/) - Japanese dependency parser based on Support Vector Machine (SVM)
